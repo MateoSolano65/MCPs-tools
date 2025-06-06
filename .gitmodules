@@ -1,0 +1,6 @@
+[submodule "mcp-db-manager"]
+	path = mcp-db-manager
+	url = https://github.com/laduenasb/mcp-db-manager.git
+[submodule "Figma-Context-MCP"]
+	path = Figma-Context-MCP
+	url = https://github.com/GLips/Figma-Context-MCP.git
