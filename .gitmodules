@@ -4,3 +4,6 @@
 [submodule "Figma-Context-MCP"]
 	path = Figma-Context-MCP
 	url = https://github.com/GLips/Figma-Context-MCP.git
+[submodule "mcp-atlassian-server"]
+	path = mcp-atlassian-server
+	url = https://github.com/phuc-nt/mcp-atlassian-server.git
